@@ -13,3 +13,7 @@ let g:SrcExpl_updateTagsKey = "<F12>"
 set cursorline 
 set number
 set hls
+
+set laststatus=2
+let g:Powerline_colorscheme='solarized256'
+set t_Co=256
